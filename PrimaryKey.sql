@@ -97,3 +97,5 @@ VALUES (1, 101, '2023-02-01', 'C');
 -- 1. Always include a primary key in every table
 -- 2. Use auto-increment unless you have a specific reason not to
 -- 3. Keep primary keys simple - use INT or BIGINT for numeric IDs
+
+-- Internally Table  is store in B++ tree in memory where all nodes are primary key and leaf node is table row 
