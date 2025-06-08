@@ -1,6 +1,5 @@
 -- =============================================
--- SQL FUNCTIONS DEMO SCRIPT
--- A comprehensive demonstration of various SQL functions
+-- SQL FUNCTIONS
 -- =============================================
 
 -- =================
