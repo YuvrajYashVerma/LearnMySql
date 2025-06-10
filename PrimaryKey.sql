@@ -19,7 +19,7 @@ CREATE TABLE students (
 );
 
 -- Inserting records with valid primary keys
-INSERT INTO students (student_id, first_name, last_name, email)
+INSERT INTO students (student_id, first_name, last_name, email)  
 VALUES 
 (1, 'John', 'Smith', 'john.smith@example.com'),
 (2, 'Maria', 'Garcia', 'maria.garcia@example.com'),
