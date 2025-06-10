@@ -1,7 +1,7 @@
 -- =============================================
 -- SQL FUNCTIONS
 -- =============================================
-
+-- There are multiple function type according to data
 -- =================
 -- STRING FUNCTIONS
 -- =================
